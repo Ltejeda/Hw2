@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">news-app-2</string>
+    <string name="search">Search</string>
+    <string name="main_notification_channel_name">Primary</string>
+    <string name="article_notification">New Articles Available</string>
+    <string name="notification_title">Articles Updated</string>
+</resources>
+
